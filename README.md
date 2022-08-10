@@ -1,6 +1,6 @@
 # J2EE-Full-Stack-Application
 
-Responsibilites and Tasks:
+Accomplishments, Responsibilities and Tasks:
 
 •	Developed the web application which manages x and y coordinates and their locations in a plane and performs CRUD operations using web pages and RESTful HTTP API
 
